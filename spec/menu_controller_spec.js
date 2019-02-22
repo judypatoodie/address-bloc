@@ -6,5 +6,4 @@ const MenuController = require("../controllers/MenuController");
      this.menu = new MenuController();
    });
 
-
  });
